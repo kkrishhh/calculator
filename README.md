@@ -15,4 +15,4 @@ Open index.html in your browser to use the calculator.
 Technologies
 HTML
 CSS
-JavaScript
+ Vanilla JavaScript
